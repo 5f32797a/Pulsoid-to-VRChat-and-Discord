@@ -1,0 +1,9 @@
+requests
+pypresence
+psutil
+python-osc
+Pillow
+customtkinter
+aiohttp
+darkdetect
+bleak
